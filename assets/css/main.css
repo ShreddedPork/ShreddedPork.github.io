@@ -296,8 +296,8 @@ a {
 
 #projects {
 	text-decoration: underline;
-	font-style: italic;
 	font-size: 1.5em;
+	text-align: center;
 }
 
 a:before {
@@ -347,7 +347,7 @@ h6 a {
 }
 
 h1 {
-	font-size: 2em;
+	font-size: 5em;
 
 	letter-spacing: 0.22em;
 	margin: 0 0 0.525em 0;
